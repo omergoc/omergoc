@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba Ben Ömer Göç</h1>
-<h3 align="center">safecodecenter.com</h3>
+<h3 align="center">Öğrencilik hayatım boyunca yazılım alanında, her zaman kendimi geliştirdim. Bu süreçte bir çok teknolojiyi keşfetmiş ve öğrenmiş oldum.Hedefim yazılım alanında uzman seviyesine ulaşmak ve nitelikli bir yazılım geliştirici olmaktır.Aynı zamanda bilişim alanıyla ilgili, blog sayfamda içerikler oluşturmaktayım. (safecodecenter.com).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omergoc&label=Profile%20views&color=0e75b6&style=flat" alt="omergoc" /> </p>
 
