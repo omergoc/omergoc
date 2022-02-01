@@ -22,12 +22,10 @@ Development consultancy for search engine and user experience (Freelancer)<br/>
           ⬇️⬇️⬇️ All Links ⬇️⬇️⬇️
  </tr>
 <tr>
-  <td><a href="https://youtube.com/">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+ <td><a href="https://www.linkedin.com/in/omergoc/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
-<td><a href="https://twitch.tv/">
-<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-</a>
+ </td>
 <td><a href="#">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a> </tr>
@@ -35,12 +33,8 @@ Development consultancy for search engine and user experience (Freelancer)<br/>
 </td>
 <td><a href="https://github.com/omergoc">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a> </tr>
-  <tr>
-<td><a href="https://www.linkedin.com/in/omergoc/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a> 
- </td>
+  </a>
+
   </tr>
 </table>
 
