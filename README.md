@@ -1,14 +1,13 @@
-# Osman-Fatih-DEMiR
+# Ömer Göç
 Hi I'm Ömer Göç,
 <br/>
-<img align="right" alt="avatar" width="200" src="me.jpg"> 
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=1boole.1boole)](#)
 
 * I have been graduated from Computer coding section (Associate Degree). <br/>
 * Currently I'm a distance learning Management Information Systems 4rd class
 student. <br/>
-* The lessons I took was heavily towards Object Orianted Programming (OOP), C# and Java. <br/>
+* The lessons I took was heavily towards Object Orianted Programming (OOP), Python and C#. <br/>
 * Creating digital solutions for corporate or individual customers 
 Example; corporate website, module development, service development,
 Development consultancy for search engine and user experience (Freelancer)<br/>
@@ -17,9 +16,6 @@ and Rentecar Backend, stay tuned for more. <br/>
 
 
 <br/>
-
-
-
 
 
 <table class="center">
