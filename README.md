@@ -11,8 +11,7 @@ student. <br/>
 * Creating digital solutions for corporate or individual customers 
 Example; corporate website, module development, service development,
 Development consultancy for search engine and user experience (Freelancer)<br/>
-* I placed the projects that I done on GitHub like a mobile puzzle game, mobile translating app
-and Rentecar Backend, stay tuned for more. <br/>
+ <br/>
 
 
 <br/>
