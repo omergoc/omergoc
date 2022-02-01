@@ -32,7 +32,7 @@ Development consultancy for search engine and user experience (Freelancer)<br/>
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a> </tr>
   <tr>
-<td>
+</td>
 <td><a href="https://github.com/omergoc">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a> </tr>
@@ -40,6 +40,7 @@ Development consultancy for search engine and user experience (Freelancer)<br/>
 <td><a href="https://www.linkedin.com/in/omergoc/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
+ </td>
   </tr>
 </table>
 
