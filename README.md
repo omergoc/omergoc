@@ -1,5 +1,5 @@
 # Ömer Göç
-Hi I'm Ömer Göç,
+Merhaba Ben Ömer Göç,
 <br/>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=1boole.1boole)](#)
@@ -52,9 +52,6 @@ Development consultancy for search engine and user experience (Freelancer)<br/>
 </table>
 
 </br>
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=1boole&theme=blue-green">
 
 <br/><br/>
 
