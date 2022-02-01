@@ -34,7 +34,7 @@ Development consultancy for search engine and user experience (Freelancer)<br/>
 <td><a href="https://github.com/omergoc">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-
+</td>
   </tr>
 </table>
 
