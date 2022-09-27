@@ -3,7 +3,8 @@
 </div>  
   
 
-### <div align="center">Bilişim Güvenliği Teknolojisi (Ön Lisans) Mezunuyum. Şu sıralar İngilizce
+### <div align="center">Merhaba, Ben Ömer Göç 
+ Bilişim Güvenliği Teknolojisi (Ön Lisans) Mezunuyum. Şu sıralar İngilizce
 öğrenmeye çalışıyorum. Aktif olarak kendimi yazılım alanında sürekli
 geliştirmekteyim. Odaklandığım teknolojiler Python ve Golang, bunlarla
 beraber Siber Güvenlik alanı ile ilgili araştırmalar ve geliştirmeler yapıyorum.
@@ -85,6 +86,13 @@ açık bir insanım.
 
 <br/>  
 
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+  
 
 <br/>  
 
