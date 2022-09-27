@@ -86,13 +86,6 @@ açık bir insanım.
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
 <br/>  
 
   
