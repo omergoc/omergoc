@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://c.tenor.com/f4eKzaPOZUYAAAAd/rz-ds-project.gif" align="center" style="width: 100%" />
-</div>  
   
 
 ### <div align="center">Merhaba, Ben Ömer Göç 
@@ -85,13 +82,6 @@ açık bir insanım.
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=omergoc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
   
 
 <br/>  
