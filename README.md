@@ -3,7 +3,7 @@
 ### <div align="center">Merhaba, Ben Ömer Göç 
  Bilişim Güvenliği Teknolojisi (Ön Lisans) Mezunuyum. Şu sıralar İngilizce
 öğrenmeye çalışıyorum. Aktif olarak kendimi yazılım alanında sürekli
-geliştirmekteyim. Odaklandığım teknolojiler Python ve NodeJS, bunlarla
+geliştirmekteyim. Odaklandığım teknolojiler Python ve .NET , bunlarla
 beraber Siber Güvenlik alanı ile ilgili araştırmalar ve geliştirmeler yapıyorum.
 Hedefim Siber Güvenlik ve Yazılım Alanında iyi bir bilgi birikimine sahip
 olmak ve bu alanda başarılı projelere imza atmak. Bunun için her zaman
